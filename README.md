@@ -53,9 +53,39 @@ VITE_PUBLIC_DOMAIN=http://localhost:5173
 
 # 5. Run the development server
 npm run dev
-
+```
 
 ---
+
+## 📁 Folder Structure
+
+urlShortner/
+├── public/
+├── src/
+│   ├── components/
+│   ├── db/
+│   ├── hooks/
+│   ├── layouts/
+│   ├── lib/
+│   ├── pages/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── context.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .env
+├── .gitignore
+├── components.json
+├── eslint.config.js
+├── index.html
+├── jsconfig.json
+├── package-lock.json
+├── package.json
+├── vite.svg
+└── README.md
+
+
 
 ## 🌐 Live Demo
 
@@ -72,6 +102,7 @@ npm run dev
 | Supabase        | [https://supabase.com/](https://supabase.com/) |
 | React           | [https://react.dev/](https://react.dev/)       |
 | Vite            | [https://vitejs.dev/](https://vitejs.dev/)     |
+| ShadCN UI       | [https://ui.shadcn.dev/](https://ui.shadcn.dev/) |
 | ShadCN UI       | [https://ui.shadcn.dev/](https://ui.shadcn.dev/) |
 
 > Inspiration from countless sleepless nights and too much coffee ☕.
