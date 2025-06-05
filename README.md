@@ -67,3 +67,47 @@ VITE_PUBLIC_DOMAIN=http://localhost:5173
 
 # 5. Run the development server
 npm run dev
+
+
+## 📁 Folder Structure
+public/
+├── _redirects # Netlify routing fixes
+
+src/
+├── components/ # Reusable UI components
+├── context/ # URL and Auth context providers
+├── layouts/ # Layout wrappers
+├── pages/ # Page-level routes
+├── styles/ # Custom CSS if needed
+├── App.jsx # Root app logic and routing
+└── main.jsx # Vite entry point
+
+## 🌐 Live Demo
+
+🔗 [Live Website on Netlify](https://your-live-site.netlify.app)  
+*(Update this after deployment)*
+
+---
+
+## 🧠 Credits & Inspiration
+
+- [Supabase](https://supabase.com/)
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [ShadCN UI](https://ui.shadcn.dev/)
+- Inspiration from countless sleepless nights and too much coffee ☕.
+
+---
+
+## 📫 Contact
+
+**Developer**: Somya Ranjan Sahu (aka Roxx)  
+📧 somyaranjan@example.com  
+🐙 [GitHub: Som0904](https://github.com/Som0904)
+
+---
+
+## 📜 License
+
+MIT License.  
+Use it, remix it, break it, build it — just don’t forget to credit. 😉
