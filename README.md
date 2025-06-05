@@ -59,8 +59,7 @@ npm run dev
 
 ## 📁 Folder Structure
 
-<pre> ```bash urlShortner/ ├── public/ │ ├── _redirects │ ├── banner1.jpg │ └── logo.png │ ├── src/ │ ├── components/ │ ├── db/ │ ├── hooks/ │ ├── layouts/ │ ├── lib/ │ ├── pages/ │ ├── App.css │ ├── App.jsx │ ├── context.jsx │ ├── index.css │ └── main.jsx │ ├── .env ├── .gitignore ├── components.json ├── eslint.config.js ├── index.html ├── jsconfig.json ├── package-lock.json ├── package.json ├── vite.svg └── README.md ``` </pre>
-
+<pre> urlShortner/ ├── public/ │ ├── _redirects │ ├── banner1.jpg │ └── logo.png │ ├── src/ │ ├── components/ │ ├── db/ │ ├── hooks/ │ ├── layouts/ │ ├── lib/ │ ├── pages/ │ ├── App.css │ ├── App.jsx │ ├── context.jsx │ ├── index.css │ └── main.jsx │ ├── .env ├── .gitignore ├── components.json ├── eslint.config.js ├── index.html ├── jsconfig.json ├── package-lock.json ├── package.json ├── vite.svg └── README.md </pre>
 
 ## 🌐 Live Demo
 
