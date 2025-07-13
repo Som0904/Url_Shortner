@@ -92,7 +92,7 @@ urlShortner/
 
 | Link                              |
 |----------------------------------|
-| 🔗 [Live Website on Netlify](https://your-live-site.netlify.app) *(Update this after deployment)* |
+| 🔗 [Live Website on Netlify](url-shortner09.netlify.app)  |
 
 ---
 
@@ -103,7 +103,6 @@ urlShortner/
 | Supabase        | [https://supabase.com/](https://supabase.com/) |
 | React           | [https://react.dev/](https://react.dev/)       |
 | Vite            | [https://vitejs.dev/](https://vitejs.dev/)     |
-| ShadCN UI       | [https://ui.shadcn.dev/](https://ui.shadcn.dev/) |
 | ShadCN UI       | [https://ui.shadcn.dev/](https://ui.shadcn.dev/) |
 
 > Inspiration from countless sleepless nights and too much coffee ☕.
