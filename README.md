@@ -92,7 +92,7 @@ urlShortner/
 
 | Link                              |
 |----------------------------------|
-| 🔗 [Live Website on Netlify](url-shortner09.netlify.app)  |
+| 🔗 [Live Website on Netlify](https://url-shortner09.netlify.app)  |
 
 ---
 
